@@ -1,0 +1,11 @@
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\bin\Debug\netcoreapp2.1\every-week-one-arithmetic.deps.json
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\bin\Debug\netcoreapp2.1\every-week-one-arithmetic.runtimeconfig.json
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\bin\Debug\netcoreapp2.1\every-week-one-arithmetic.runtimeconfig.dev.json
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\bin\Debug\netcoreapp2.1\every-week-one-arithmetic.dll
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\bin\Debug\netcoreapp2.1\every-week-one-arithmetic.pdb
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\obj\Debug\netcoreapp2.1\every-week-one-arithmetic.csprojAssemblyReference.cache
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\obj\Debug\netcoreapp2.1\every-week-one-arithmetic.csproj.CoreCompileInputs.cache
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\obj\Debug\netcoreapp2.1\every-week-one-arithmetic.AssemblyInfoInputs.cache
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\obj\Debug\netcoreapp2.1\every-week-one-arithmetic.AssemblyInfo.cs
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\obj\Debug\netcoreapp2.1\every-week-one-arithmetic.dll
+E:\vsworkspace\every-week-one-arithmetic\every-week-one-arithmetic\obj\Debug\netcoreapp2.1\every-week-one-arithmetic.pdb
